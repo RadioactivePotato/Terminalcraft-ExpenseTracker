@@ -8,14 +8,14 @@ A budget tracking program written in Python with visualisation
 - **Data import & export**
 
 ## Setup
+
+Clone this repo
+
+cd into the directory
 ```
-git clone https://github.com/RadioactivePotato/Python-BudgetTracker
-cd Python-BudgetTracker
 pip install matplotlib
 python budget.py
 ```
-
-[Demo](https://www.youtube.com/watch?v=7aVOdd9Dlb4)
 
 ### Visualised Chart
 
